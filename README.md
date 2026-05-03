@@ -20,7 +20,7 @@ I'm a passionate developer and digital enthusiast from an Arabic-speaking backgr
 | **Tools** | Dotfiles, Config Management |
 
 ### 🌍 Languages
-- **Arabic** - Native Speaker 🇸🇦
+- **Arabic** - Native Speaker 🇲🇦
 - **English** - B1 Level 🇬🇧
 - **French** - B1 Level 🇫🇷
 - **German** - A2 Level 🇩🇪
