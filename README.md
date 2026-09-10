@@ -5,7 +5,7 @@
 I'm a passionate developer and digital enthusiast from an Arabic-speaking background. I'm currently learning web development while maintaining my dotfiles and curating a collection of beautiful wallpapers.
 
 ### 🎯 Current Focus
-- 🌐 Web Development (HTML, CSS, PHP, SQL, MySQL)
+- 🌐 Web Development (HTML, CSS, PHP, MySQL)
 - 🐍 Python Programming
 - 📚 Learning C++
 - 🖥️ Managing and sharing dotfiles
