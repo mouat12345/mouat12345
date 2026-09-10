@@ -23,7 +23,7 @@ I'm a passionate developer and digital enthusiast from an Arabic-speaking backgr
 - **Arabic** - Native Speaker 🇲🇦
 - **English** - B1 Level 🇬🇧
 - **French** - B1 Level 🇫🇷
-- **German** - A2 Level 🇩🇪
+- **German** - B1(ÖSD) Level 🇩🇪
 
 ### 🎨 My Repositories
 Here you'll find:
