@@ -34,5 +34,5 @@ Here you'll find:
 
 ### 📞 Get in Touch
 - 📧 **Email:** [testestallahallah@gmail.com](mailto:testtest@gmail.com)
-- 📸 **Instagram:** [@ara_xi_brad_atay](https://instagram.com/ara_xi_brad_atay)
+- 📸 **Instagram:** [@testtestallahallah](https://instagram.com/testtest)
 
